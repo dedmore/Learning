@@ -1,0 +1,9 @@
+Introduction - First GitHub Experience
+============
+
+Hello, my name is Brandon Dedmore. This will be my record of learning how to program in Python.So I’m using a guide from http://learnpythonthehardway.org , and was told to keep a record of my learning, something I should have done while exploring various other programming languages. The first thing I noticed when looking at Python is the different syntax used and the overall flow of the coding process. I’m still going to continue to learn more programming aspects of C++ since most of my projects use it. But now appears to be the time of expansion for me.
+
+Getting Started - Setup
+===============
+
+Setting up and environment to program in Python appears a lot simpler then when I first started learning to program. Not that you couldn’t use Notepad, but programming sure did look nicer using an Integrated Development Environment (I.D.E.). A few years later you can have access to programs like Notepad++ from http://notepad-plus-plus.org/ , which look just a good as and I.D.E from back when I first started. With using Notepad++ and PowerShell, and utility to give you a terminal like interface, I discovered I needed to Install Python. You Mac OS X users get it automatically. Off to download Python. http://python.org/download. At the time of this document you can choose between Python 2 and Python 3. Python 2 is suggested, and that gives me a future paper I can write about the differences between 2 and 3. It appears at this time that only about half of the libraries in Python 2 are compatible with Python 3. Notepad++ v6.5 and Python 2.7.5 were successfully installed. Just because the Python installer says it was successful doesn’t mean you don’t have a little bit of setup. I had to use a new command for me, [Environment]::SetEnvironmentVariable("Path", "$env:Path;C:\Python27", "User") . This lets PowerShell know where Python is located.
