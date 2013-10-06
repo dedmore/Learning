@@ -1,14 +1,14 @@
 Exercise 3, Numbers and Math. I didn’t really come across any new information as of yet. Maybe in the Study Drills I’ll learn something to point out… In the guide it asks to find the missing operations for a few mathematical symbols:
 
-+ plus : Does Addition.
-- minus : Does Subtraction.
-/ slash : Does Division.
-* asterisk : Does Multiplication.
-% percent : Does Modulus (Grabs the remainder of a division operation.)
-< less-than : Checks first number against second number and returns true or false.
-> greater-than : Checks first number against second number and returns true or false.
-<= less-than-equal : Checks first number against second number and returns true or false.
->= greater-than-equal : Checks first number against second number and returns true or false.
+[+ plus : Does Addition.
+[- minus : Does Subtraction.
+[/ slash : Does Division.
+[* asterisk : Does Multiplication.
+[% percent : Does Modulus (Grabs the remainder of a division operation.)
+[< less-than : Checks first number against second number and returns true or false.
+[> greater-than : Checks first number against second number and returns true or false.
+[<= less-than-equal : Checks first number against second number and returns true or false.
+[>= greater-than-equal : Checks first number against second number and returns true or false.
 
 Study Drills:
 1.	Above each line, use the # to write a comment to yourself explaining what the line does.
