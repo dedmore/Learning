@@ -10,4 +10,4 @@ Study Drills:
 
 4.	Read what you typed above out loud, including saying each character by its name. Did you find more mistakes? Fix them.
 
-In response to #1, yes I was correct about the character and I’m choosing to use “octothorpe” as well for the name. #2, I didn’t find any problems. #3, No. #4, No. 
+In response to #1, Yes, I was correct about the character and I’m choosing to use “octothorpe” as well for the name. #2, I didn’t find any problems. #3, No. #4, No. 
