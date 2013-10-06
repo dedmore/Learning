@@ -1,6 +1,6 @@
 Not much to explain here, using the print command to get text to display. Exercise 1 for me is about understanding what extension the file needs to work best with Python as well and getting to be free of the strict confines of C++. There is a section called study Drills from the guide that I will address here as well.
 
-For this exercise, try these things:
+Study Drills:
 
 1.	Make your script print another line.
 
