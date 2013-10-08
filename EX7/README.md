@@ -1,4 +1,4 @@
-Exercise 7, More Printing. This exercise is about using strings to print text to the screen. I found it interesting that you can print a sting multiple times quite simply.
+Exercise 7, More Printing. This exercise is about using strings to print text to the screen. I found it interesting that you can print a string multiple times quite simply.
 
 Study Drills
 
