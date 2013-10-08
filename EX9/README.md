@@ -1,4 +1,4 @@
-Exercise 9, Printing, Printing, Printing. In this exercise there are two new things introduced, the newline command “\n” and the triple double quote string blocking technique.
+Exercise 9, Printing, Printing, Printing. In this exercise there are two new things introduced, the newline command “\n” and the triple double quote string multi line technique.
 
 Study Drills
 
