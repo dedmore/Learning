@@ -1,4 +1,4 @@
-Exercise 5, More Variables and Printing. This exercise talks about “format string.” It also shows how you would address variables inside a string and how to use formatters.
+Exercise 5, More Variables and Printing. This exercise talks about formating a string. It also shows how you would address variables inside a string and how to use formatters.
 
 Study Drills:
 
