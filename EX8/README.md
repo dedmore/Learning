@@ -1,4 +1,4 @@
-Exercise 8, Printing, Printing. In this exercise a different way of using strings is presented. The use of %r is also known as “representation” that will give you the “raw programmer’s” version of the variable. Python will print strings in the most efficient way it can, this can lead you seeing extra quote marks in the output, but this is mostly for debugging and inspection.
+Exercise 8, Printing, Printing. In this exercise a different way of using strings is presented. The use of %r is also known as “representation” that will give you the “raw programmer’s” version of the variable.
 
 Study Drills
 
