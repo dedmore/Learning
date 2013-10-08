@@ -14,4 +14,4 @@ For these next few exercises, you will have the exact same Study Drills.
 
 5.	Remember that everyone makes mistakes. Programmers are like magicians who like everyone to think they are perfect and never wrong, but it's all an act. They make mistakes all the time.
 
-In response to #1, ex7-commented.py. #2, I didn’t find any errors. #3, None. #4, None. #5, the mistakes that I have make are just typing in the code, but I quickly identify typographical errors and correct them before continuing with the code.
+In response to #1, ex7-commented.py. #2, I didn’t find any errors. #3, None. #4, None. #5, the mistakes that I have made are just typing in the code, but I quickly identify typographical errors and correct them before continuing with the code.
