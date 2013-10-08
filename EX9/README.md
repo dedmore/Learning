@@ -4,4 +4,4 @@ Study Drills
 
 1.	Do your checks of your work, write down your mistakes, try not to make them on the next exercise.
 
-#1, Good old typos as you go, but never saved.
+In resoponce to #1, Good old typos as you go, but never saved.
